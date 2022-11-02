@@ -1,0 +1,8 @@
+body {
+  overflow-y: scroll;
+}
+
+#portal .dialog-box {
+  position: absolute;
+  z-index: 1000;
+}
